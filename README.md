@@ -1,6 +1,5 @@
 # siberyildiz2019-writeup
-Siber Yıldız -2019 | CTF (Capture The Flag)  Write-Up
-
+<?php echo "Siber Yıldız -2019 | CTF (Capture The Flag)  Write-Up"; ?>
 
 
 <p>Merhaba arkadaşlar bu sene ikincisi d&uuml;zenlenen T&uuml;rkiye&#39;nin Siber Yıldızları yarışmasına WWarriors takımı olarak bizde katıldık ve 7. olarak tamamladık. (Kesin sonu&ccedil;lar Hen&uuml;z A&ccedil;ıklanmadı)</p>
